@@ -3,7 +3,6 @@
 
 **Collaborators: Vignesh Ravikumar, Keshav Bharadwaj Vaidyanathan, Vanshika Jain**
 
-<img src="https://github.com/vigneshr2306/SegMask-Frustum-Pointpillars/images/arch.png" alt="drawing" width="400"/><img src="https://github.com/vigneshr2306/SegMask-Frustum-Pointpillars/images/arch.png" alt="drawing" width="300"/>
 
 
 ## Getting Started
@@ -131,9 +130,6 @@ python second/pytorch/train.py evaluate --config_path= second/configs/pointpilla
 * Detection result will saved in model_dir/eval_results/step_xxx.
 * The evaluated labels cacn be visualized using Kitti Visualizer [Link]{https://github.com/HengLan/Visualize-KITTI-Objects-in-Videos}
 
-## Results
-<img src="https://github.com/vigneshr2306/SegMask-Frustum-Pointpillars/images/img_bbox.png" alt="drawing" width="800"/>
-<img src="https://github.com/vigneshr2306/SegMask-Frustum-Pointpillars/images/3d.png" alt="drawing" width="800"/>
 
 
 ## References
