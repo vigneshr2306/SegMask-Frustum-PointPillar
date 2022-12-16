@@ -107,6 +107,7 @@ eval_input_reader: {
 
 7. Download the PSPNet pre-trained model from this link: https://drive.google.com/file/d/1IbJnD3yDX9ckMXJK3idwE9sX_fIoDnfD/view?usp=sharing
 
+8. Download our model from this link: https://drive.google.com/file/d/1G0myBYYSVCNvbBm-G4d5DtfO1OkGpe8s/view?usp=sharing
 ### Train
 
 ```bash
