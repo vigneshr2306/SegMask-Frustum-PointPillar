@@ -103,9 +103,9 @@ eval_input_reader: {
   kitti_root_path: "KITTI_DATASET_ROOT"
 }
 ```
-6. Download the YOLOv7 pre-trained model from this link: [Link]{https://drive.google.com/file/d/1X1bU06Zj-9-Tl31LQ-Y1FFdYLeuqeXoz/view?usp=sharing}
+6. Download the YOLOv7 pre-trained model from this link: https://drive.google.com/file/d/1X1bU06Zj-9-Tl31LQ-Y1FFdYLeuqeXoz/view?usp=sharing
 
-7. Download the PSPNet pre-trained model from this link: [Link]{https://drive.google.com/file/d/1IbJnD3yDX9ckMXJK3idwE9sX_fIoDnfD/view?usp=sharing}
+7. Download the PSPNet pre-trained model from this link: https://drive.google.com/file/d/1IbJnD3yDX9ckMXJK3idwE9sX_fIoDnfD/view?usp=sharing
 
 ### Train
 
@@ -128,7 +128,7 @@ python second/pytorch/train.py evaluate --config_path= second/configs/pointpilla
 ```
 
 * Detection result will saved in model_dir/eval_results/step_xxx.
-* The evaluated labels cacn be visualized using Kitti Visualizer [Link]{https://github.com/HengLan/Visualize-KITTI-Objects-in-Videos}
+* The evaluated labels cacn be visualized using Kitti Visualizer: https://github.com/HengLan/Visualize-KITTI-Objects-in-Videos
 
 
 
